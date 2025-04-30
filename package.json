@@ -1,0 +1,19 @@
+{
+  "name": "@tatyanashakhmina/ajs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000j\u0000s\u0000\r\u0000 \u0000",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaShakhmina/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatyanaShakhmina/ajs/issues"
+  },
+  "homepage": "https://github.com/TatyanaShakhmina/ajs#readme"
+}
